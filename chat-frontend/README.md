@@ -1,0 +1,1 @@
+Created a Simple Chat App using Socket.io for backend and react for frontend
